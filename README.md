@@ -10,28 +10,7 @@ I enjoy transforming ideas into practical applications, designing efficient arch
 
 ---
 
-## 🚀 Technical Skills
-
-### Programming Languages
-Java · Python · JavaScript · TypeScript · C · C++ · C#
-
-### Frontend Development
-React · React Native · Angular · HTML5 · CSS3 · Tailwind CSS
-
-### Backend Development
-Node.js · Hono · Spring Boot · Django · FastAPI · .NET · Symfony · REST APIs
-
-### Databases
-PostgreSQL · MySQL · MongoDB · Oracle · Redis
-
-### Artificial Intelligence & Machine Learning
-Scikit-learn · XGBoost · Prophet · Pandas · NumPy · Feature Engineering · Generative AI · LLM Integration · RAG
-
-### DevOps & Tools
-Docker · Jenkins · Git · GitHub Actions · Linux · AWS · RabbitMQ
-
----
-
+ 
 ## 💼 Professional Experience
 
 ### Software Engineering Intern: Glybette
@@ -48,26 +27,7 @@ Contributed to the development of **Glybette**, an intelligent career developmen
 
 **Technologies:** React, TypeScript, Hono, MongoDB, Redis, RabbitMQ, Docker, Jenkins.
 
----
-
-## 🧑‍💻 Selected Projects
-
-### Machine Learning & Data Science
-
-Worked on predictive modeling and data analysis projects involving data preprocessing, feature engineering, model training, and evaluation.
-
-- **Car Price Prediction:** Developed a predictive model using XGBoost, achieving approximately 92% accuracy.
-- **Time Series Forecasting:** Explored forecasting techniques using Prophet.
-- **Data Analysis:** Applied data preprocessing, visualization, and statistical analysis techniques.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Prophet.
-
-### Full-Stack Development
-
-Developed web applications combining modern frontend technologies, backend services, database management, and REST API integration.
-
-**Technologies:** React, Angular, TypeScript, Java, Python, Spring Boot, Django, FastAPI, Node.js, PostgreSQL, MongoDB.
-
+ 
 ---
 
 ## 🎯 Areas of Interest
@@ -93,18 +53,7 @@ Developed web applications combining modern frontend technologies, backend servi
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elaattia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaattia&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elaattia&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
+ 
 
 ## 🤝 Let's Connect
 
