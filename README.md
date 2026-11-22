@@ -34,7 +34,7 @@ Docker · Jenkins · Git · GitHub Actions · Linux · AWS · RabbitMQ
 
 ## 💼 Professional Experience
 
-### Software Engineering Intern — Glybette
+### Software Engineering Intern: Glybette
 
 Contributed to the development of **Glybette**, an intelligent career development platform designed to help students and young graduates manage their professional journeys.
 
